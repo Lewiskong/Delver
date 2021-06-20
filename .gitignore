@@ -1,0 +1,16 @@
+## ide files
+.idea
+.vscode
+.DS_Store
+
+## transport scripts
+tc
+td
+
+## node files
+node_modules
+out
+
+## test files
+test
+
